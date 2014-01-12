@@ -23,7 +23,8 @@ public class cadenas {
 		
 		//imprimimos longitud
 		System.out.println("La cadena es: "+nombre+" y la longitud es: "+ longitud);
-		//imprimimos longitud2
+		//cambiamos longitud2 y la imprimimos
+		longitud2=25;
 		System.out.println(longitud2);
 		
 		//almacenamos la inicial de programacion en la variable inicial
