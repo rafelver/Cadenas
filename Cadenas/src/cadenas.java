@@ -9,6 +9,8 @@ public class cadenas {
 		char inicial;
 		int longitud;
 		String modificacion="";
+		//creamos nueva variable
+		int longitud2;
 		
 		//imprimimos la cadena
 		System.out.println("La cadena es: " +nombre);
