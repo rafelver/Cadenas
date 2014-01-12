@@ -15,11 +15,16 @@ public class cadenas {
 		//imprimimos la cadena
 		System.out.println("La cadena es: " +nombre);
 		
-		//almacenamos la longitud de la variable nombre en la variable longitud
+		//almacenamos la longitud de la variable nombre en la variable longitud	
 		longitud=nombre.length();
+		
+		//almacenamos  longitud en longitud2
+		longitud2=longitud;
 		
 		//imprimimos longitud
 		System.out.println("La cadena es: "+nombre+" y la longitud es: "+ longitud);
+		//imprimimos longitud2
+		System.out.println(longitud2);
 		
 		//almacenamos la inicial de programacion en la variable inicial
 		inicial=nombre.charAt(0);
